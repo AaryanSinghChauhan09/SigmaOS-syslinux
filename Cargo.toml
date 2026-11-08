@@ -1,0 +1,12 @@
+[package]
+name = "sigmaos_syslinux"
+version = "0.1.0"
+edition = "2021"
+license = "MIT"
+description = "SigmaOS syslinux component inspired by Linux Mint / Omarchy / Arch Linux."
+
+[dependencies]
+
+[lib]
+name = "sigmaos_syslinux"
+path = "src/lib.rs"
