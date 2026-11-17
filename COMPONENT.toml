@@ -3,7 +3,7 @@ name = "SigmaOS-syslinux"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "syslinux component"
+description = "SigmaOS SigmaOS-syslinux component"
 upstream = []
 
 [contract]
